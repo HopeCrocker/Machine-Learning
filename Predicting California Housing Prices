@@ -576,8 +576,6 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "##Reset the DataFrame index so that it goes from 0 to n-1, where n is the number of rows in your DataFrame\n"
-   ]
   },
   {
    "cell_type": "code",
